@@ -1,0 +1,1 @@
+select city0_.id as id1_0_, city0_.city as city2_0_, city0_.lat as lat3_0_, city0_.lng as lng4_0_, city0_.zipcode as zipcode5_0_ from zipcode-belgium city0_
